@@ -1,6 +1,6 @@
 # Creative tabs
 
-itemGroup.tabSuperMultiDrills=Super Multi-Drills
+itemGroup.tabSuperMultiDrills=复合钻头
 
 # Item localizations
 
@@ -76,7 +76,7 @@ item.supermultidrills:DrillHead_Ardite.name=阿迪特钻头
 item.supermultidrills:DrillHead_Manyullyn.name=马玉灵钻头
 item.supermultidrills:DrillHead_Fairy.name=精灵钻头
 item.supermultidrills:DrillHead_Pokefennium.name=Pokefennium 钻头
-item.supermultidrills:DrillHead_Redaurum.name=RedAurum 钻头
+item.supermultidrills:DrillHead_Redaurum.name=红金钻头
 item.supermultidrills:DrillHead_Enderium.name=末影钻头
 item.supermultidrills:DrillHead_Signalum.name=信素钻头
 item.supermultidrills:DrillHead_Lumium.name=Lumium 钻头
@@ -109,7 +109,7 @@ item.supermultidrills:DrillHead_Carmot.name=耀金钻头
 item.supermultidrills:DrillHead_Mithril.name=秘银钻头
 item.supermultidrills:DrillHead_Quicksilver.name=银钻钻头
 item.supermultidrills:DrillHead_Haderoth.name=幻铜钻头
-item.supermultidrills:DrillHead_Orichalcum.name=Orichalcum 钻头
+item.supermultidrills:DrillHead_Orichalcum.name=奥利哈刚钻头
 item.supermultidrills:DrillHead_Celenegil.name=幽冥毒晶钻头
 item.supermultidrills:DrillHead_Adamantine.name=艾德曼合金钻头
 item.supermultidrills:DrillHead_Atlarus.name=精金钻头
@@ -126,11 +126,11 @@ item.supermultidrills:MagneticRod.name=磁铁芯
 
 item.supermultidrills:DrillUpgrade.desc=和钻头合成来应用升级模组.
 
-item.supermultidrills:UpgradeFortune.name=升级模组: 时运模组
+item.supermultidrills:UpgradeFortune.name=升级模组: 时运
 item.supermultidrills:UpgradeFortune.desc1=应用时运升级
 item.supermultidrills:UpgradeFortune.desc2=(每1个升级提升1级时运)
 
-item.supermultidrills:UpgradeSaw.name=升级模组: 锯片模组
+item.supermultidrills:UpgradeSaw.name=升级模组: 锯片
 item.supermultidrills:UpgradeSaw.desc1=使钻头可以用作斧子
 item.supermultidrills:UpgradeSaw.desc2=像木头那样的东西. 别问我怎么用.
 
