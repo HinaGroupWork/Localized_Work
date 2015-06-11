@@ -249,14 +249,14 @@ witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 witchinggadgets_research_name.SPINNINGWHEEL=纺织
 witchinggadgets_research_text.SPINNINGWHEEL=[WG]别扎到自己
 witchinggadgets_research_page.SPINNINGWHEEL.1=当很多伟大的法师忽视了纺纱和织布的重要性时，很多人还是明白纺织的力量。很多魔法物品都是纺织的产物，包括每一个法师的长袍。很多法师都证明了创造符文跟纺织都有很多共同点，比如需要仔细处理的各个细节和需要让魔力在其内部流通。
-witchinggadgets_research_page.SPINNINGWHEEL.2=Every practitioners start into the field should be made by creating their very own §lSpinning Wheel§r. It will be used if in aquiring yarn, be it mundane, of exquisite material or some enhanced with magic. This yarn will then later be used to weave the fabric from which to craft various garments or magic artifacts-
+witchinggadgets_research_page.SPINNINGWHEEL.2=每一个准备开始纺织的法师都会先创造他们自己的 §l纺车§r. 它会被用来制造纱，无论是普通的还是经过魔法加工的。这些纱之后会被用来编制一些服装或者魔法物品-
 witchinggadgets_research_page.SPINNINGWHEEL.r1=<IMG>witchinggadgets:textures/gui/research/spinningRecipes1.png:0:0:255:255:0.5</IMG>§lYarn§r
 witchinggadgets_research_page.SPINNINGWHEEL.r2=<IMG>witchinggadgets:textures/gui/research/spinningRecipes2.png:0:0:255:255:0.5</IMG>§lGolden Thread§r
 witchinggadgets_research_page.SPINNINGWHEEL.r3=<IMG>witchinggadgets:textures/gui/research/spinningRecipes3.png:0:0:255:255:0.5</IMG>§lThaumium Thread§r
 #
-witchinggadgets_research_name.LOOM=Loom
-witchinggadgets_research_text.LOOM=[WG] Weavin' Magic
-witchinggadgets_research_page.LOOM.1=To process further the process the yarn and thread gained by spinning, the wizard will have to craft himself a magic loom on which to weave his magic fabric. This  construct will not only interweave the threads, it will also infuse them with various §lAspects§r, granting them magical properties. To infuse the fabric with aspects, simply make sure a §lWarded Jar§r containing some is in the vicinity<BR>To start the weaving after setting the recipe, simply tap the loom with your wand.
+witchinggadgets_research_name.LOOM=织布机
+witchinggadgets_research_text.LOOM=[WG] 编织魔法
+witchinggadgets_research_page.LOOM.1=为了进一步处理靠纺织获得的纱，法师不得不给自己创造一个魔法织布机去编织魔法布料。这个步骤不仅仅用来编织布料，还用来给布料灌注不同的§l奥术§r, 给予它们不同的魔法属性。 想要给布料灌注奥术，只要把一个带有奥术的 §l浸魔之罐§r 放在附近。<BR>在设定好配方之后，用魔杖点击织布机来开始编织。
 #
 witchinggadgets_research_name.ARCANEAUTOCRAFTER=Arcane Crafter
 witchinggadgets_research_text.ARCANEAUTOCRAFTER=[WG] Au-Thaum-nomous Crafting!
