@@ -59,7 +59,7 @@ item.WG_Cluster.name=Native %1$s Cluster
 
 item.WG_Bag.normal.name=鬼计背囊
 item.WG_Bag.void.name=狭隙背囊
-item.WG_Bag.ender.name=Enderlinked Bag
+item.WG_Bag.ender.name=末影背囊
 item.WG_Bag.hungry.name=饕餮背囊
 
 item.WG_ThaumiumShears.name=神秘剪刀
@@ -117,7 +117,7 @@ wg.title.crimsonKnight=赤色骑士
 wg.title.crimsonPraetor=赤色执政官
 item.WG_Baubles.ringLuck.name=贪金指环
 
-item.WG_ScanCamera.name=Thaumic Iconograph Box
+item.WG_ScanCamera.name=神秘记录仪
 
 item.WG_CrystalFlask.name=水晶烧瓶
 
@@ -178,7 +178,7 @@ wg.desc.active=激活
 wg.desc.infusionStabilizer=好似注入了稳定剂
 
 wg.gui.search=追寻
-wg.chat.nodeContents.primal=此节点中的初始元素: §e风: %1$s§f, §2 地: %2$s§f, §c火: %3$s§f, §3水: %4$s§f, §7秩序: %5$s§f, §8混沌: %6$s
+wg.chat.nodeContents.primal=Primal Aspects within this node: §eAer: %1$s§f, §2Terra: %2$s§f, §cIgnis: %3$s§f, §3Aqua: %4$s§f, §7Ordo: %5$s§f, §8Perditio: %6$s
 wg.chat.infusionWarning.pedestalHeight=Infusion pedestal at %1$s, %2$s, %3$s must not be higher than the Infusion Matrix
 wg.chat.infusionWarning.pedestalPos=Pedestal at %1$s, %2$s, %3$s must not be more than 8 blocks horizontally from the matrix
 wg.chat.infusionWarning.noPartnerItem=Pedestal at %1$s, %2$s, %3$s should have an item to match its partner
@@ -216,14 +216,14 @@ witchinggadgets_research_name.VORPALBLADE=斩首巨刃
 witchinggadgets_research_text.VORPALBLADE=腥笑甜点
 witchinggadgets_research_page.VORPALBLADE.1=§oOne, two! One, two! and through and through<BR>The vorpal blade went snicker-snack!<BR>He left it dead, and with its head<BR>He went galumphing back§r<LINE>A sword of legend. So powerful that it will cleanly cut through any material known to men and is likely to fatally strike and behead most any foe.
 #
-witchinggadgets_research_name.WALLMIRROR=Mirror on the Wall
-witchinggadgets_research_text.WALLMIRROR=[WG] The most magical of all!
+witchinggadgets_research_name.WALLMIRROR=墙上之镜
+witchinggadgets_research_text.WALLMIRROR=[WG]魔力之巅!
 witchinggadgets_research_page.WALLMIRROR.1=深入钻研镜子的魔力使你发现在多元宇宙的狭隙中寻找到了一个安全的次位面庇护所。<BR>当此处魔力满盈，便能以万物狭隙显现。次位面并无可视地面，然则你能站立于此。<BR>次位面乃为居家旅行之利器。其空旷且广袤，并且可以使你在此多元宇宙的狭隙世界之中安置你的一切物品。
 witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>置镜于任意方位，普通右击即可开启通路，次元的入口对于每个镜子而言并无不同，但通路的出口只有在标记之处。也就是说，你只能到达彼世的一个被放置好的镜子那里。<BR><BR>§lNavigation:§r<BR>无论你在哪里，有5x5大小的不可视地面会支撑着你，这些不可视的方块会因你用普通方块右键而被置换，嗯，然后你就可以在上面盖房子啦！跳跃会让你上升，潜行会让你下降，不用担心，那些不可视之地面会追随你的啦，当成创造模式就可以了哟~
 #
 #WGPOTIONS
 witchinggadgets_research_name.WGPOTIONS=Status Effects
-witchinggadgets_research_text.WGPOTIONS=[WG] 牛奶不是一直都是好的选择！
+witchinggadgets_research_text.WGPOTIONS=[WG]牛奶不是一直都是好的选择！
 witchinggadgets_research_page.WGPOTIONS.1=随着你追寻神秘力量的步伐，你会受到某些影响。以下是一些已知的列表:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§n击退抵抗:§r  给予受难者一个抵挡击退的效果。每一个等级有33%的几率抵挡击退。<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r  The afflicted is covered in a fluid akin to 'Liquid Death', damaging them over time. If they succumb to it, they drop crystalized aspects.
 witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§n余烬外套:§r  受难者被一层能够提高火焰效力的煤渣包裹着。所有火焰伤害将成倍增加。
 
@@ -235,11 +235,11 @@ witchinggadgets_research_page.ETHEREALWALL.1=在稍微对奥术秘石上的魔�
 witchinggadgets_research_page.ETHEREALWALL.2=此外，你可以把这个石块伪装成普通的方块。用手上的方块对其点击便能把它的纹理变成的手上的方块的纹理。潜行的时候空手点击石块能够撤销它的纹理。（它只接受正常渲染的方块的纹理。Vanilla transparency works, Thaumcraft's Amber并不被接受因为它们的透明性。方向性纹理，如原木和石英石柱并不被完全支持）
 #
 witchinggadgets_research_name.STONEEXTRUDER=神秘压石机
-witchinggadgets_research_text.STONEEXTRUDER=[WG] 给那些永远不会有足够石头的人
+witchinggadgets_research_text.STONEEXTRUDER=[WG]给那些永远不会有足够石头的人
 witchinggadgets_research_page.STONEEXTRUDER.1=就算是新手都知道流动的岩浆和水能够产生圆石，但是对于老司机来说他们并不想浪费那么多时间在挖石头上。所以他们创造了一种自动化的方法。<BR>这个机器能够产生圆石，然后自动打碎它并且把它放在地上或者旁边的箱子里。机器会在箱子满了或者接收到红石信号的时候停止。你可以用一个魔杖去旋转它
 #
 witchinggadgets_research_name.AGEINGSTONE=时光之石
-witchinggadgets_research_text.AGEINGSTONE=[WG] 你在玩耍的时候时间总是过得很快！
+witchinggadgets_research_text.AGEINGSTONE=[WG]你在玩耍的时候时间总是过得很快！
 witchinggadgets_research_page.AGEINGSTONE.1=每个熊孩子都希望快点长大，但是这会带走他们太多美好的经历。所以你决定把你对于时间膨胀的知识灌注在奥术秘石里。<BR>时光之石会加快周围的普通生物的成长，让接触它的魔法力量小羊，犊牛和小猪长得更快。<BR>时光之石会影响以其为中心的7x7x5的空间。更多时光之石会增加它的效果。
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
@@ -247,7 +247,7 @@ witchinggadgets_research_text.THAUMICAPPLICATOR=[WG]
 witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 #
 witchinggadgets_research_name.SPINNINGWHEEL=纺织
-witchinggadgets_research_text.SPINNINGWHEEL=[WG] 别扎到自己
+witchinggadgets_research_text.SPINNINGWHEEL=[WG]别扎到自己
 witchinggadgets_research_page.SPINNINGWHEEL.1=当很多伟大的法师忽视了纺纱和织布的重要性时，很多人还是明白纺织的力量。很多魔法物品都是纺织的产物，包括每一个法师的长袍。很多法师都证明了创造符文跟纺织都有很多共同点，比如需要仔细处理的各个细节和需要让魔力在其内部流通。
 witchinggadgets_research_page.SPINNINGWHEEL.2=Every practitioners start into the field should be made by creating their very own §lSpinning Wheel§r. It will be used if in aquiring yarn, be it mundane, of exquisite material or some enhanced with magic. This yarn will then later be used to weave the fabric from which to craft various garments or magic artifacts-
 witchinggadgets_research_page.SPINNINGWHEEL.r1=<IMG>witchinggadgets:textures/gui/research/spinningRecipes1.png:0:0:255:255:0.5</IMG>§lYarn§r
