@@ -230,7 +230,7 @@ witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/poti
 
 
 witchinggadgets_research_name.ETHEREALWALL=空之墙
-witchinggadgets_research_text.ETHEREALWALL=[WG] Hidden in plain sight
+witchinggadgets_research_text.ETHEREALWALL=[WG] 大隐隐于市
 witchinggadgets_research_page.ETHEREALWALL.1=在稍微对奥术秘石上的魔法进行精炼后你有了一个有趣的发现。简单地给这个新的石头红石信号之后，将会让其 §o灵体化§r, 让你能通过它.<BR>这也会影响到所有跟这个被充能的方块相连的空之墙.
 witchinggadgets_research_page.ETHEREALWALL.2=此外，你可以把这个石块伪装成普通的方块。用手上的方块对其点击便能把它的纹理变成的手上的方块的纹理。潜行的时候空手点击石块能够撤销它的纹理。（它只接受正常渲染的方块的纹理。Vanilla transparency works, Thaumcraft's Amber并不被接受因为它们的透明性。方向性纹理，如原木和石英石柱并不被完全支持）
 #
@@ -272,7 +272,7 @@ witchinggadgets_research_name.LABYRINTHSTRING=Guiding Thread
 witchinggadgets_research_text.LABYRINTHSTRING=[WG] Ariadne would be proud
 witchinggadgets_research_page.LABYRINTHSTRING.1=Mazes and labyrinths once were a favourable way of warding secrets against intruders. The real danger of course, is not finding your way back out.<BR>In order to help with that, you have designed the Guiding Thread, an item that leaves a trail of light as you progress through dark and windy place. Rightclick to activate or deactivate it. While active, it will remember every turn you make. The light is only visible while you hold it though. Sneak+click to wipe it's memory.
 #
-witchinggadgets_research_name.LABELLIB=Aspect Library
+witchinggadgets_research_name.LABELLIB=奥数图书馆
 witchinggadgets_research_text.LABELLIB=[WG] Indexing made easy!
 witchinggadgets_research_page.LABELLIB.1=While managing and archiving the different kinds of essentia you deal with, you have found that labeling them is quite tedious work. In order to no longer bottle up essentia and rub it against a label to get the the right colour, you've designed the aspect library. It is a block that remembers every aspect you have discovered so far and applies it to labels. Simply place a label within it and select an aspect, and it will attune it accordingly.
 
