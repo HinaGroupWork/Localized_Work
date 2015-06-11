@@ -1,46 +1,46 @@
 binniecore.mod.name=Binnie核心
 
-binniecore.rootBees.descriptor=养蜂人Apiarist
-binniecore.rootTrees.descriptor=林业员Arborist
-binniecore.rootButterflies.descriptor=鳞翅目昆虫学家Lepidopterist
-binniecore.rootFlowers.descriptor=花匠Botanist
+binniecore.rootBees.descriptor=养蜂人
+binniecore.rootTrees.descriptor=林业员
+binniecore.rootButterflies.descriptor=鳞翅目昆虫学家
+binniecore.rootFlowers.descriptor=花匠
 
 binniecore.rootBees.shortName=蜜蜂
 binniecore.rootTrees.shortName=树木
 binniecore.rootButterflies.shortName=蝴蝶&飞蛾
 binniecore.rootFlowers.shortName=花卉
 
-binniecore.rootBees.epitome.0=蜜蜂驱逐者Bee Swatter
-binniecore.rootBees.epitome.1=蜜蜂爱好者Amateur Beekeeper
-binniecore.rootBees.epitome.2=见习养蜂人Apiarist-In-Training
-binniecore.rootBees.epitome.3=职业养蜂人Professional Beekeeper
-binniecore.rootBees.epitome.4=大师级养蜂人Master Apiarist
-binniecore.rootBees.epitome.5=神明之上的养蜂人God amoungst Apiarists
-binniecore.rootBees.epitome.6=Sengir选中之人Sengir's Chosen
+binniecore.rootBees.epitome.0=蜜蜂驱逐者
+binniecore.rootBees.epitome.1=蜜蜂爱好者
+binniecore.rootBees.epitome.2=见习养蜂人
+binniecore.rootBees.epitome.3=职业养蜂人
+binniecore.rootBees.epitome.4=养蜂大师
+binniecore.rootBees.epitome.5=超神养蜂人
+binniecore.rootBees.epitome.6=Sengir选中之人
 
-binniecore.rootTrees.epitome.0=有梦想的树农Wannabe Tree Farmer
-binniecore.rootTrees.epitome.1=伐木工人Lumberjack
-binniecore.rootTrees.epitome.2=绿色的大拇指Green Thumbed
-binniecore.rootTrees.epitome.3=远近闻名的农民Renowned Farmer
-binniecore.rootTrees.epitome.4=农业大师Agricultural Master
-binniecore.rootTrees.epitome.5=树木之王Lord of the Trees
-binniecore.rootTrees.epitome.6=自然之母Mother Nature
+binniecore.rootTrees.epitome.0=有梦想的树农
+binniecore.rootTrees.epitome.1=伐木工人
+binniecore.rootTrees.epitome.2=绿色的大拇指
+binniecore.rootTrees.epitome.3=远近闻名的农民
+binniecore.rootTrees.epitome.4=农业大师
+binniecore.rootTrees.epitome.5=树木之王
+binniecore.rootTrees.epitome.6=自然之母
 
-binniecore.rootButterflies.epitome.0=普通的抓虫人Bug Catcher
-binniecore.rootButterflies.epitome.1=毛虫猎人Moth Chaser
-binniecore.rootButterflies.epitome.2=捕蝶的巫师Scoop Wizard
-binniecore.rootButterflies.epitome.3=Caterpiller Lord
-binniecore.rootButterflies.epitome.4=飞翔的捕蝶者Winged Assassin
-binniecore.rootButterflies.epitome.5=Moth King
-binniecore.rootButterflies.epitome.6=蝴蝶们的统治者Monarch of the Butterflies
+binniecore.rootButterflies.epitome.0=普通的抓虫人
+binniecore.rootButterflies.epitome.1=毛虫猎人
+binniecore.rootButterflies.epitome.2=捕蝶的巫师
+binniecore.rootButterflies.epitome.3=毛毛虫之王
+binniecore.rootButterflies.epitome.4=飞翔的捕蝶者
+binniecore.rootButterflies.epitome.5=飞蛾统治者
+binniecore.rootButterflies.epitome.6=蝴蝶统治者
 
-binniecore.rootFlowers.epitome.0=街边三色堇Pansy
-binniecore.rootFlowers.epitome.1=拨弄鲜花的人Daisy Pusher
-binniecore.rootFlowers.epitome.2=Flower Power
-binniecore.rootFlowers.epitome.3=珍宝的触及者Midas Touch
-binniecore.rootFlowers.epitome.4=绿色Green Thumb
-binniecore.rootFlowers.epitome.5=大师级园丁Master Garderner
-binniecore.rootFlowers.epitome.6=Peerless Botanist
+binniecore.rootFlowers.epitome.0=街边三色堇
+binniecore.rootFlowers.epitome.1=拨弄鲜花的人
+binniecore.rootFlowers.epitome.2=鲜花统领
+binniecore.rootFlowers.epitome.3=珍宝的触及者
+binniecore.rootFlowers.epitome.4=绿色的拇指
+binniecore.rootFlowers.epitome.5=园丁大师
+binniecore.rootFlowers.epitome.6=超凡花匠
 
 binniecore.rootBees.chromosome.species=品种
 binniecore.rootBees.chromosome.speed=效率
@@ -120,16 +120,16 @@ binniecore.allele.metabolism.slowest=最慢
 
 binniecore.allele.none=无
 
-binniecore.allele.growth.tropical=Tropical
-binniecore.allele.growth.lightlevel=Light Level
+binniecore.allele.growth.tropical=热带
+binniecore.allele.growth.lightlevel=光照等级
 
 
 binniecore.beemodifier.territory=影响范围
-binniecore.beemodifier.mutation=Mutation
+binniecore.beemodifier.mutation=变异
 binniecore.beemodifier.lifespan=寿命
 binniecore.beemodifier.production=产物
 binniecore.beemodifier.flowering=授粉速度
-binniecore.beemodifier.geneticdecay=Genetic Decay
+binniecore.beemodifier.geneticdecay=基因衰减
 
 
 
