@@ -171,9 +171,9 @@ extrabees.machine.alveay.rainShield=挡雨方块
 extrabees.machine.alveay.rainShield.desc=挡雨方块可以使得蜜蜂免受下雨的影响。
 extrabees.machine.alveay.stimulator=电子增产器
 extrabees.machine.alveay.stimulator.desc=使用电路板和BC能量，通过一种和框架相似的途径来为蜜蜂增产。
-extrabees.machine.alveay.hatchery=Hatchery
-extrabees.machine.alveay.hatchery.info=Collect larvae laid by queen bees inside the alveary.
-extrabees.machine.alveay.transmission=Alveary Transmission
+extrabees.machine.alveay.hatchery=孵化器
+extrabees.machine.alveay.hatchery.info=在蜂箱中收集幼虫。
+extrabees.machine.alveay.transmission=蜂箱传送器
 
 
 
@@ -181,8 +181,8 @@ extrabees.machine.alveay.transmission=Alveary Transmission
 ##################################################
 ## Misc
 
-extrabees.circuit.layout.stimulator=Electrical Stimulator
-extrabees.circuit.layout.stimulator.usage=In Electrical Stimulators
+extrabees.circuit.layout.stimulator=电激励器
+extrabees.circuit.layout.stimulator.usage=在电激励器中
 extrabees.tab.genetics=基因
 
 for.binnie.circuit.stimulator.lowvoltage=LV Stimulus

@@ -29,19 +29,19 @@ extratrees.block.planks.cedar=雪松
 extratrees.block.planks.hemlock=铁杉
 extratrees.block.planks.cypress=柏树
 extratrees.block.planks.fig=无花果
-extratrees.block.planks.beech=Beech
+extratrees.block.planks.beech=山毛榉
 extratrees.block.planks.alder=桤木
 extratrees.block.planks.hazel=榛树
 extratrees.block.planks.hornbeam=鹅耳枥
 extratrees.block.planks.box=黄杨
-extratrees.block.planks.butternut=Butternut
+extratrees.block.planks.butternut=胡桃
 extratrees.block.planks.hickory=山核桃
 extratrees.block.planks.whitebeam=白面子树
 extratrees.block.planks.elm=榆树
 extratrees.block.planks.apple=苹果树
 extratrees.block.planks.yew=红豆杉
 extratrees.block.planks.pear=梨树
-extratrees.block.planks.hawthorn=Hawthorn
+extratrees.block.planks.hawthorn=山楂
 extratrees.block.planks.rowan=花楸
 extratrees.block.planks.elder=接骨木
 extratrees.block.planks.maclura=桑橙
@@ -97,9 +97,9 @@ extratrees.block.planks.forestry.padauk=紫檀树
 extratrees.block.planks.forestry.cocobolo=黄檀树
 extratrees.block.planks.forestry.zebrawood=斑木树
 
-extratrees.block.planks.ebxl.redwood=Redwood
-extratrees.block.planks.ebxl.fir=Scottish Fir
-extratrees.block.planks.ebxl.acacia=Excel Acacia
+extratrees.block.planks.ebxl.redwood=红木
+extratrees.block.planks.ebxl.fir=苏格兰冷杉
+extratrees.block.planks.ebxl.acacia=刺槐
 
 
 
@@ -220,7 +220,7 @@ extratrees.species.douglasfir.name=北美黄杉
 extratrees.species.hazel.name=榛树
 extratrees.species.sycamore.name=无花果
 extratrees.species.whitebeam.name=白面子树
-extratrees.species.hawthorn.name=Common Hawthorn
+extratrees.species.hawthorn.name=山楂
 extratrees.species.pecan.name=长山核桃
 extratrees.species.elm.name=榆树
 extratrees.species.elder.name=接骨木
@@ -231,7 +231,7 @@ extratrees.species.acornoak.name=橡果橡
 extratrees.species.fir.name=银冷杉
 extratrees.species.cedar.name=大雪松
 extratrees.species.olive.name=橄榄树
-extratrees.species.redmaple.name=Red Maple
+extratrees.species.redmaple.name=红槭
 extratrees.species.balsamfir.name=香脂冷杉
 extratrees.species.loblollypine.name=火炬松
 extratrees.species.sweetgum.name=枫香树
@@ -263,7 +263,7 @@ extratrees.species.cranberry.name=蔓越莓
 extratrees.species.juniper.name=杜松子
 extratrees.species.gooseberry.name=鹅莓
 extratrees.species.goldenraspberry.name=金树莓
-extratrees.species.cinnamon.name=Cinnamon
+extratrees.species.cinnamon.name=肉桂
 extratrees.species.coconut.name=椰子
 extratrees.species.cashew.name=腰果
 extratrees.species.avacado.name=鳄梨
@@ -279,7 +279,7 @@ extratrees.species.dwarfhazel.name=矮榛
 
 
 extratrees.item.food.apple=苹果
-extratrees.item.food.crabapple=Crabapple
+extratrees.item.food.crabapple=野苹果
 extratrees.item.food.orange=橙子
 extratrees.item.food.kumquat=金橘
 extratrees.item.food.lime=酸橙
@@ -308,8 +308,8 @@ extratrees.item.food.pear=梨
 extratrees.item.food.sandpear=沙梨
 
 extratrees.item.food.hazelnut=榛子
-extratrees.item.food.butternut=Butternut
-extratrees.item.food.beechnut=Beechnut
+extratrees.item.food.butternut=白胡桃
+extratrees.item.food.beechnut=山毛榉坚果
 extratrees.item.food.pecan=长山核桃
 
 extratrees.item.food.banana=香蕉
