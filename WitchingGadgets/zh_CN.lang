@@ -30,8 +30,8 @@ tile.WG_MetalDevice.voidmetalBlock.name=虚空金属块
 tile.WG_MetalDevice.tfFocusTaint.name=地形核心: 诅咒之地
 tile.WG_MetalDevice.tfFocusMushroom.name=地形核心: 蘑菇岛
 
-tile.WG_RoseVine.name=Rose Vines
-tile.WG_CustomAir.name=Glimmer of Light
+tile.WG_RoseVine.name=玫瑰藤蔓
+tile.WG_CustomAir.name=微光之源
 
 #
 # -- Items --
@@ -71,16 +71,16 @@ item.WG_AdvancedRobeLegs.name=魔仙绑腿
 item.WG_AdvancedScribingTools.name=刻线工具
 
 item.WG_Cloak.standard.name=斗篷
-item.WG_Cloak.storage.name=多口袋斗篷
+item.WG_Cloak.storage.name=四次元斗篷
 item.WG_Cloak.raven.name=渡鸦斗篷
 item.WG_Cloak.spectral.name=幽灵斗篷
 item.WG_Cloak.wolf.name=飒银斗篷
 
-item.WG_Kama.standard.name=Kama
-item.WG_Kama.storage.name=Kama of Voluminous Pockets
-item.WG_Kama.raven.name=Kama of the Raven
-item.WG_Kama.spectral.name=Spectral Kama
-item.WG_Kama.wolf.name=Wolven Kama
+item.WG_Kama.standard.name=战裙
+item.WG_Kama.storage.name=四次元战裙
+item.WG_Kama.raven.name=渡鸦战裙
+item.WG_Kama.spectral.name=灵魂战裙
+item.WG_Kama.wolf.name=飒银战裙
 
 item.WG_EliteArmorHelm.ANGELIC_0.name=神显者之视
 item.WG_EliteArmorChest.ANGELIC_1.name=炽天使之佑
@@ -184,15 +184,15 @@ wg.chat.infusionWarning.pedestalPos=Pedestal at %1$s, %2$s, %3$s must not be mor
 wg.chat.infusionWarning.noPartnerItem=Pedestal at %1$s, %2$s, %3$s should have an item to match its partner
 wg.chat.infusionWarning.noPartnerPedestal=Pedestal at %1$s, %2$s, %3$s lacks a symmetrical partner
 wg.chat.infusionWarning.noPartnerStabilizer=Stabilizer at %1$s, %2$s, %3$s lacks a symmetrical partner
-wg.chat.infusionInfo.stabilityTotal=Total Stability booster: %1$s
-wg.chat.infusionInfo.instability=Total Instability of this Infusion: %1$s
-wg.chat.infusionInfo.essentiaMod=This Infusion Enchantment will consume %1$s times the amount of essentia displayed in the Thaumonomicon:
+wg.chat.infusionInfo.stabilityTotal=稳定性加强度: %1$s
+wg.chat.infusionInfo.instability=注魔不稳定性: %1$s
+wg.chat.infusionInfo.essentiaMod=注魔附魔将会消耗 %1$s 倍源质:
 wg.chat.infusionInfo.essentiaRunicMod=The essentia costs for this Runic Augmentation are to the power of %1$s:
 
 
-wg.potionKnockbackRes=Knockback Res.
-wg.potionDissolve=Dissolving
-wg.potionCinderCoat=Cinder Coat
+wg.potionKnockbackRes=击退抵抗
+wg.potionDissolve=溶解
+wg.potionCinderCoat=余烬外套
 
 # -- Research --
 # Formatting:
