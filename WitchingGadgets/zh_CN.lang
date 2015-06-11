@@ -1,80 +1,80 @@
 # -- Blocks --
-tile.WG_WallMirror.name=Mirror on the Wall
-tile.WG_VoidWalkway.name=Void Walkway
-tile.WG_StoneDevice.etherealWall.name=Ethereal Wall
-tile.WG_StoneDevice.magicTileLock.name=Magical Lock
-tile.WG_StoneDevice.obsidianPlate.name=Obsidian Plate
-tile.WG_StoneDevice.obsidianDecoration0.name=Obsidian Rune
-tile.WG_StoneDevice.obsidianDecoration1.name=Obsidian Rune
-tile.WG_StoneDevice.obsidianDecoration2.name=Obsidian Rune
-tile.WG_StoneDevice.sarcophagus.name=Sarcophagus
-tile.WG_StoneDevice.timeStone.name=Ageing Stone
-tile.WG_StoneDevice.blastFurnace.name=Infernal Blast Furnace
+tile.WG_WallMirror.name=墙上之镜
+tile.WG_VoidWalkway.name=间隙之路
+tile.WG_StoneDevice.etherealWall.name=空之墙
+tile.WG_StoneDevice.magicTileLock.name=魔力之锁
+tile.WG_StoneDevice.obsidianPlate.name=黑曜石碟
+tile.WG_StoneDevice.obsidianDecoration0.name=黑曜秘符
+tile.WG_StoneDevice.obsidianDecoration1.name= 黑曜秘符
+tile.WG_StoneDevice.obsidianDecoration2.name= 黑曜秘符
+tile.WG_StoneDevice.sarcophagus.name=石棺
+tile.WG_StoneDevice.timeStone.name=悠久之石
+tile.WG_StoneDevice.blastFurnace.name=地狱高炉
 
-tile.WG_WoodenDevice.spinningWheel.name=Spinning Wheel
-tile.WG_WoodenDevice.loom.name=Loom
-tile.WG_WoodenDevice.cobbleGen.name=Thaumic Stone Extruder
-tile.WG_WoodenDevice.armorStand.name=Armor Stand
-tile.WG_WoodenDevice.cuttingTable.name=Cutting Table
-tile.WG_WoodenDevice.saunaStove.name=Thaumic Sauna Stove
-tile.WG_WoodenDevice.labelLibrary.name=Aspect Library
+tile.WG_WoodenDevice.spinningWheel.name=旋转之轮
+tile.WG_WoodenDevice.loom.name=纺织机
+tile.WG_WoodenDevice.cobbleGen.name=神秘压石机
+tile.WG_WoodenDevice.armorStand.name=武器架
+tile.WG_WoodenDevice.cuttingTable.name=切割工作台
+tile.WG_WoodenDevice.saunaStove.name=神秘桑拿炉
+tile.WG_WoodenDevice.labelLibrary.name=源质图书馆
 
-tile.WG_MetalDevice.essentiaPump.name=Essentia Pump
-tile.WG_MetalDevice.terraformer.name=Arcane Terrestrial Reformer
-tile.WG_MetalDevice.tfFocusPlains.name=Terrestrial Focus: Plains
-tile.WG_MetalDevice.tfFocusColdTaiga.name=Terrestrial Focus: Cold Taiga
-tile.WG_MetalDevice.tfFocusDesert.name=Terrestrial Focus: Desert
-tile.WG_MetalDevice.tfFocusJungle.name=Terrestrial Focus: Jungle
-tile.WG_MetalDevice.tfFocusHell.name=Terrestrial Focus: Hell
-tile.WG_MetalDevice.voidmetalBlock.name=Void metal Block
-tile.WG_MetalDevice.tfFocusTaint.name=Terrestrial Focus: Tainted Lands
-tile.WG_MetalDevice.tfFocusMushroom.name=Terrestrial Focus: Mushroom Island
+tile.WG_MetalDevice.essentiaPump.name=质源泵
+tile.WG_MetalDevice.terraformer.name=神秘地形改造装置
+tile.WG_MetalDevice.tfFocusPlains.name=地形核心: 平原
+tile.WG_MetalDevice.tfFocusColdTaiga.name=地形核心: 雪原
+tile.WG_MetalDevice.tfFocusDesert.name=地形核心: 沙漠
+tile.WG_MetalDevice.tfFocusJungle.name=地形核心: 森林
+tile.WG_MetalDevice.tfFocusHell.name=地形核心: 地狱
+tile.WG_MetalDevice.voidmetalBlock.name=虚空金属块
+tile.WG_MetalDevice.tfFocusTaint.name=地形核心: 诅咒之地
+tile.WG_MetalDevice.tfFocusMushroom.name=地形核心: 蘑菇岛
 
 tile.WG_RoseVine.name=Rose Vines
 tile.WG_CustomAir.name=Glimmer of Light
 
 #
 # -- Items --
-item.WG_Material.threadSimple.name=Yarn
-item.WG_Material.threadGold.name=Golden Thread
-item.WG_Material.threadThaumium.name=Thaumium Thread
-item.WG_Material.clothSpace.name=Cloth of Spacious Folds
-item.WG_Material.clothGolden.name=Golden Fabric
-item.WG_Material.clothBewitched.name=Bewitched Fleece
-item.WG_Material.wolfPelt.name=Wolf Pelt
-item.WG_Material.calculator.name=Arcane Abacus
-item.WG_Material.cuttingTools.name=Gemcutter's Tools
-item.WG_Material.photoPlate.name=Iconographic Plate
-item.WG_Material.developedPhoto.name=Developed Iconograph
-item.WG_Material.clusterAluminum.name=Aluminum Cluster
-item.WG_Material.clusterCobalt.name=Cobalt Cluster
-item.WG_Material.clusterArdite.name=Ardite Cluster
-item.WG_Material.clusterNickel.name=Nickel Cluster
-item.WG_Material.clusterFZDarkIron.name=Dark Iron Cluster
-item.WG_Material.guidingString.name=Guiding Thread
-item.WG_Material.powerlessPearl.name=Powerless Pearl
-item.WG_Material.gemstoneDust.name=Gemstone Dust
+item.WG_Material.threadSimple.name=纱线
+item.WG_Material.threadGold.name=金纹线
+item.WG_Material.threadThaumium.name=魔纹线
+item.WG_Material.clothSpace.name=宽褶布料
+item.WG_Material.clothGolden.name=金纹布料
+item.WG_Material.clothBewitched.name=魔仙布料
+item.WG_Material.wolfPelt.name=狼皮
+item.WG_Material.calculator.name=奇术算盘
+item.WG_Material.cuttingTools.name=宝石切割工具
+item.WG_Material.photoPlate.name=神秘胶片
+item.WG_Material.developedPhoto.name=处理过的胶片
+item.WG_Material.clusterAluminum.name=铝簇
+item.WG_Material.clusterCobalt.name=钴簇
+item.WG_Material.clusterArdite.name=阿迪特簇
+item.WG_Material.clusterNickel.name=镍簇
+item.WG_Material.clusterFZDarkIron.name=黑铁簇
+item.WG_Material.guidingString.name=导力线
+item.WG_Material.powerlessPearl.name=无力珍珠
+item.WG_Material.gemstoneDust.name=宝石尘埃
 
 item.WG_Cluster.name=Native %1$s Cluster
 
-item.WG_Bag.normal.name=Bag of Tricks
-item.WG_Bag.void.name=Voidlinked Bag
+item.WG_Bag.normal.name=鬼计背囊
+item.WG_Bag.void.name=狭隙背囊
 item.WG_Bag.ender.name=Enderlinked Bag
-item.WG_Bag.hungry.name=Hungry Bag
+item.WG_Bag.hungry.name=饕餮背囊
 
-item.WG_ThaumiumShears.name=Thaumium Shears
-item.WG_MagicFood.sweetwart.name=Sweetwart
-item.WG_MagicFood.nethercake.name=Nethercake
-item.WG_MagicFood.brainjerky.name=Brain Jerky
-item.WG_AdvancedRobeChest.name=Bewitched Robe
-item.WG_AdvancedRobeLegs.name=Bewitched Leggings
-item.WG_AdvancedScribingTools.name=Illuminated Scribing Tools
+item.WG_ThaumiumShears.name=神秘剪刀
+item.WG_MagicFood.sweetwart.name=甜疣
+item.WG_MagicFood.nethercake.name=地狱蛋糕
+item.WG_MagicFood.brainjerky.name=风干大脑
+item.WG_AdvancedRobeChest.name=魔仙长袍
+item.WG_AdvancedRobeLegs.name=魔仙绑腿
+item.WG_AdvancedScribingTools.name=刻线工具
 
-item.WG_Cloak.standard.name=Cloak
-item.WG_Cloak.storage.name=Cloak of Voluminous Pockets
-item.WG_Cloak.raven.name=Mantle of the Raven
-item.WG_Cloak.spectral.name=Spectral Mantle
-item.WG_Cloak.wolf.name=Wolven Cloak
+item.WG_Cloak.standard.name=斗篷
+item.WG_Cloak.storage.name=多口袋斗篷
+item.WG_Cloak.raven.name=渡鸦斗篷
+item.WG_Cloak.spectral.name=幽灵斗篷
+item.WG_Cloak.wolf.name=飒银斗篷
 
 item.WG_Kama.standard.name=Kama
 item.WG_Kama.storage.name=Kama of Voluminous Pockets
@@ -82,103 +82,103 @@ item.WG_Kama.raven.name=Kama of the Raven
 item.WG_Kama.spectral.name=Spectral Kama
 item.WG_Kama.wolf.name=Wolven Kama
 
-item.WG_EliteArmorHelm.ANGELIC_0.name=Ophanic Helm
-item.WG_EliteArmorChest.ANGELIC_1.name=Seraph's Cuirass
-item.WG_EliteArmorLegs.ANGELIC_2.name=Cherub Greaves
-item.WG_EliteArmorBoots.ANGELIC_3.name=Sabatons of the Valkyrie
+item.WG_EliteArmorHelm.ANGELIC_0.name=神显者之视
+item.WG_EliteArmorChest.ANGELIC_1.name=炽天使之佑
+item.WG_EliteArmorLegs.ANGELIC_2.name=小天使之庇
+item.WG_EliteArmorBoots.ANGELIC_3.name=女武神之眷
 
-item.WG_EliteArmorHelm.DEMONIC_0.name=Helm of Leviathan
-item.WG_EliteArmorChest.DEMONIC_1.name=Asrael's Cuirass
-item.WG_EliteArmorLegs.DEMONIC_2.name=Lycan's Greaves
-item.WG_EliteArmorBoots.DEMONIC_3.name=Claws of the Behemoth
+item.WG_EliteArmorHelm.DEMONIC_0.name=利维坦之盔
+item.WG_EliteArmorChest.DEMONIC_1.name=死亡天使之翼
+item.WG_EliteArmorLegs.DEMONIC_2.name=人狼护腿
+item.WG_EliteArmorBoots.DEMONIC_3.name=比蒙巨兽之爪
 
-item.WG_InfusedGem.name=Infused Gem
-item.WG_InfusedGem.innert.name=Inert Gem
+item.WG_InfusedGem.name=活性宝石
+item.WG_InfusedGem.innert.name=惰性宝石
 
-item.WG_PrimordialGlove.name=Primordial Gauntlet
-item.WG_PrimordialHammer.name=Primordial Warhammer
-item.WG_PrimordialAxe.name=Primordial Greataxe
-item.WG_PrimordialSword.name=Primordial Claymore
+item.WG_PrimordialGlove.name=始源籠手
+item.WG_PrimordialHammer.name=始源战锤
+item.WG_PrimordialAxe.name=始源巨斧
+item.WG_PrimordialSword.name=始源大剑
 
-item.WG_PrimordialHelm.name=Primordial Helm
-item.WG_PrimordialChest.name=Primordial Cuirass
-item.WG_PrimordialLegs.name=Primordial Greaves
-item.WG_PrimordialBoots.name=Primordial Boots
+item.WG_PrimordialHelm.name=始源头盔
+item.WG_PrimordialChest.name=始源胸甲
+item.WG_PrimordialLegs.name=始源护腿
+item.WG_PrimordialBoots.name=始源战靴
 
-item.WG_Baubles.ring_primordial.name=Primordial Ring
-item.WG_Baubles.ring_lifeProtection.name=Ring of Life Protection
-item.WG_Baubles.shouldersDoublejump.name=Seraph's Shoulders
-item.WG_Baubles.shouldersKnockback.name=Steadfast Spaulders
-item.WG_Baubles.vambraceStrength.name=Berserker's Bracers
-item.WG_Baubles.vambraceHaste.name=Vambraces of Steady Progression
-item.WG_Baubles.titleCrimsonCult.name=Title: Crimson Cult
-wg.title.crimsonCultist=Crimson Cultist
-wg.title.crimsonKnight=Crimson Knight
-wg.title.crimsonPraetor=Crimson Praetor
-item.WG_Baubles.ringLuck.name=Ring of the Covetous Coin
+item.WG_Baubles.ring_primordial.name=始源魔戒
+item.WG_Baubles.ring_lifeProtection.name=生命护环
+item.WG_Baubles.shouldersDoublejump.name=炽天之跃
+item.WG_Baubles.shouldersKnockback.name=不动肩甲
+item.WG_Baubles.vambraceStrength.name=海格力斯之腕
+item.WG_Baubles.vambraceHaste.name=固流臂铠
+item.WG_Baubles.titleCrimsonCult.name=Title: 赤色祭仪
+wg.title.crimsonCultist= 赤色祭仪
+wg.title.crimsonKnight=赤色骑士
+wg.title.crimsonPraetor=赤色执政官
+item.WG_Baubles.ringLuck.name=贪金指环
 
 item.WG_ScanCamera.name=Thaumic Iconograph Box
 
-item.WG_CrystalFlask.name=Crystal Capsule
+item.WG_CrystalFlask.name=水晶烧瓶
 
-item.modifiedTC.luckyCoin=Lucky Gold Coin
+item.modifiedTC.luckyCoin=幸运金币
 
 # -- Creative --
-itemGroup.witchinggadgets=Witching Gadgets
+itemGroup.witchinggadgets=巫师配件
 
 # -- Enchant --
-enchantment.wg.gemstonePotency=Brilliance
-enchantment.wg.gemstoneBrittle=Brittle
-enchantment.wg.invisibleGear=Translucency
-enchantment.wg.unveiling=Unveiling
-enchantment.wg.stealth=Stealth
-enchantment.wg.backstab=Backstabbing
-enchantment.wg.rideProtect=Throwoff
+enchantment.wg.gemstonePotency=聪颖
+enchantment.wg.gemstoneBrittle=激怒
+enchantment.wg.invisibleGear=隐形
+enchantment.wg.unveiling=揭示
+enchantment.wg.stealth=潜行
+enchantment.wg.backstab=背刺
+enchantment.wg.rideProtect=出击
 #
 # -- Random bits of text --
-wg.chat.notyourbag=§7This bag belongs to§r %1$s! §7You are not allowed to open it.§r
-wg.chat.bagunlocked=§7The bag was unlocked, others can now open it.§r
-wg.chat.baglocked=§7The bag was locked, no one but you can open it.§r
+wg.chat.notyourbag=§7这个背包属于§r %1$s! §7你不能打开它.§r
+wg.chat.bagunlocked=§7这个背包已被解锁，其他人能够打开它.§r
+wg.chat.baglocked=§7这个背包已被上锁，除了你没人能够打开它.§r
 
-wg.gui.textCurNest=Current Nest:
-wg.gui.buttonSetNest=Set new nest
-wg.gui.buttonMigrate=Return to nest
-wg.gui.noFeathersToMigrate=You don't have the Items required to return to your nest
+wg.gui.textCurNest=当前的巢穴:
+wg.gui.buttonSetNest=设置新的巢穴
+wg.gui.buttonMigrate=返回巢穴
+wg.gui.noFeathersToMigrate=你并没有返回巢穴所需要的物品
 
-wg.desc.noGlide=Gliding disabled
+wg.desc.noGlide=无法滑翔
 
-wg.gui.visSize=Vis Capacity
-wg.gui.shiftForAspectList=§7Hold §aShift§7 for a list of Aspects§r
-wg.gui.activeGem=Active Gem
-wg.gui.passiveGem=Passive Gem
-wg.chat.gem.shatter=Your Infused Gem shattered!
-wg.desc.gemcut.POINT=Point Cut
-wg.desc.gemcut.TABLE=Table Cut
-wg.desc.gemcut.STEP=Step Cut
-wg.desc.gemcut.ROSE=Rose Cut
-wg.desc.gemcut.OVAL=Oval Cut
-wg.desc.gemaffinity=Natural Affinities:
-wg.desc.gemaversion=Natural Aversions:
+wg.gui.visSize=Vis 容量
+wg.gui.shiftForAspectList=§7按住 §aShift§7 来显示方案列表§r
+wg.gui.activeGem=激活宝石
+wg.gui.passiveGem=解除宝石
+wg.chat.gem.shatter=啊啦，你灌输的宝石碎裂了哟~
+wg.desc.gemcut.POINT=切点切工
+wg.desc.gemcut.TABLE=平面切工
+wg.desc.gemcut.STEP=阶段切工
+wg.desc.gemcut.ROSE=玫瑰切工
+wg.desc.gemcut.OVAL=椭圆切工
+wg.desc.gemaffinity=天然亲和:
+wg.desc.gemaversion=天然疏远:
 
-wg.desc.ctrlForAspectList=§7Hold §aCtrl§7 for a list of Aspects§r
-wg.desc.scanCompleted=Scan Completed
+wg.desc.ctrlForAspectList=§7按住 §aCtrl§7 来显示方案列表§r
+wg.desc.scanCompleted=扫描完成
 
-wg.desc.gearSlot.tg.0=Equipped in the §aCloak§7 slot
-wg.desc.gearSlot.tg.1=Equipped in the §aPauldron§7 slot
-wg.desc.gearSlot.tg.2=Equipped in the §aVambrace§7 slot
-wg.desc.gearSlot.tg.3=Equipped in the §aTitle§7 slot
-wg.desc.gearSlot.bauble.RING=Equipped in the §aRing§7 slot
-wg.desc.gearSlot.bauble.BELT=Equipped in the §aBelt§7 slot
-wg.desc.gearSlot.bauble.AMULET=Equipped in the §aAmulet§7 slot
+wg.desc.gearSlot.tg.0=装备于 §a斗篷§7 栏
+wg.desc.gearSlot.tg.1=装备于 §a肩甲§7 栏
+wg.desc.gearSlot.tg.2=装备于 §a臂铠§7 栏
+wg.desc.gearSlot.tg.3=装备于 §a表示§7 栏
+wg.desc.gearSlot.bauble.RING=装备于 §a指环§7 栏
+wg.desc.gearSlot.bauble.BELT=装备于 §a腰带§7 栏
+wg.desc.gearSlot.bauble.AMULET=装备于 §a护符§7 栏
 
-wg.desc.filteredItems=Accepted Items:
+wg.desc.filteredItems=允诺之物:
 
-wg.desc.active=Active
+wg.desc.active=激活
 
-wg.desc.infusionStabilizer=Works as an Infusion Stabilizer
+wg.desc.infusionStabilizer=好似注入了稳定剂
 
-wg.gui.search=Search
-wg.chat.nodeContents.primal=Primal Aspects within this node: §eAer: %1$s§f, §2Terra: %2$s§f, §cIgnis: %3$s§f, §3Aqua: %4$s§f, §7Ordo: %5$s§f, §8Perditio: %6$s
+wg.gui.search=追寻
+wg.chat.nodeContents.primal=此节点中的初始元素: §e风: %1$s§f, §2 地: %2$s§f, §c火: %3$s§f, §3水: %4$s§f, §7秩序: %5$s§f, §8混沌: %6$s
 wg.chat.infusionWarning.pedestalHeight=Infusion pedestal at %1$s, %2$s, %3$s must not be higher than the Infusion Matrix
 wg.chat.infusionWarning.pedestalPos=Pedestal at %1$s, %2$s, %3$s must not be more than 8 blocks horizontally from the matrix
 wg.chat.infusionWarning.noPartnerItem=Pedestal at %1$s, %2$s, %3$s should have an item to match its partner
@@ -196,11 +196,11 @@ wg.potionCinderCoat=Cinder Coat
 
 # -- Research --
 # Formatting:
-# �l 	Bold
-# �m 	Strikethrough
-# �n 	Underline
-# �o 	Italic
-# �r 	Reset
+# Ȭ Bold
+# ȭ Strikethrough
+# Ȯ Underline
+# ȯ Italic
+# Ȳ Reset
 # <BR>  LineBreak
 # <LINE>Fancy LineBreak
 #
@@ -210,45 +210,45 @@ wg.potionCinderCoat=Cinder Coat
 #  witchinggadgets_research_text.KEY=Research subtext
 #  witchinggadgets_research_page.KEY.NUMBER=Research text on page of number NUMBER
 #
-tc.research_category.WITCHGADG=Witching Gadgets
+tc.research_category.WITCHGADG=巫师配件
 #
-witchinggadgets_research_name.VORPALBLADE=Vorpal Blade
-witchinggadgets_research_text.VORPALBLADE=SNICKER-SNACK!
+witchinggadgets_research_name.VORPALBLADE=斩首巨刃
+witchinggadgets_research_text.VORPALBLADE=腥笑甜点
 witchinggadgets_research_page.VORPALBLADE.1=§oOne, two! One, two! and through and through<BR>The vorpal blade went snicker-snack!<BR>He left it dead, and with its head<BR>He went galumphing back§r<LINE>A sword of legend. So powerful that it will cleanly cut through any material known to men and is likely to fatally strike and behead most any foe.
 #
 witchinggadgets_research_name.WALLMIRROR=Mirror on the Wall
 witchinggadgets_research_text.WALLMIRROR=[WG] The most magical of all!
-witchinggadgets_research_page.WALLMIRROR.1=Further delving into the magic of the mirrors has lead you to the discovery of a safe haven within the void between worlds.<BR>While this location is brimming with magic, otherwise it appears to be void of anything. It has no visible layer of flooring, yet somehow you can stand there.<BR>This space seems to be an excellent way of traveling. Since it is vast and empty as well, it should be easy to store any of your belongings in this void-between-worlds
-witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>Place the mirror wherever you like. When you'd like to open the portal, simply right-click it. The dimension accessed through it is the same from any mirror, but portals out of it are only created where it is entered. This means that you can only leave where another Mirror has been placed in the Overworld.<BR><BR>§lNavigation:§r<BR>An invisible floor will spawn in a 5x5 below you wherever you walk. These blocks can be replaced with normal blocks by right-clicking them, allowing you to build there. Jump to ascend, the floor will follow you. Holding the sneak key will make you descend.
+witchinggadgets_research_page.WALLMIRROR.1=深入钻研镜子的魔力使你发现在多元宇宙的狭隙中寻找到了一个安全的次位面庇护所。<BR>当此处魔力满盈，便能以万物狭隙显现。次位面并无可视地面，然则你能站立于此。<BR>次位面乃为居家旅行之利器。其空旷且广袤，并且可以使你在此多元宇宙的狭隙世界之中安置你的一切物品。
+witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>置镜于任意方位，普通右击即可开启通路，次元的入口对于每个镜子而言并无不同，但通路的出口只有在标记之处。也就是说，你只能到达彼世的一个被放置好的镜子那里。<BR><BR>§lNavigation:§r<BR>无论你在哪里，有5x5大小的不可视地面会支撑着你，这些不可视的方块会因你用普通方块右键而被置换，嗯，然后你就可以在上面盖房子啦！跳跃会让你上升，潜行会让你下降，不用担心，那些不可视之地面会追随你的啦，当成创造模式就可以了哟~
 #
 #WGPOTIONS
 witchinggadgets_research_name.WGPOTIONS=Status Effects
-witchinggadgets_research_text.WGPOTIONS=[WG] Milk is not always an option! 
-witchinggadgets_research_page.WGPOTIONS.1=When delving into the arcane, you may come about certain afflictions. This is a list of the known ones:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§nKnockback resistance:§r  Grants the afflicted a chance to resist knockback, with a chance of 33% per level.<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r  The afflicted is covered in a fluid akin to 'Liquid Death', damaging them over time. If they succumb to it, they drop crystalized aspects.
-witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§nCinder Coat:§r  The afflicted is coated in magical cinder, which heightens the potency of flames. All fire damage is multiplied based on the strength of the effect.
+witchinggadgets_research_text.WGPOTIONS=[WG] 牛奶不是一直都是好的选择！
+witchinggadgets_research_page.WGPOTIONS.1=随着你追寻神秘力量的步伐，你会受到某些影响。以下是一些已知的列表:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§n击退抵抗:§r  给予受难者一个抵挡击退的效果。每一个等级有33%的几率抵挡击退。<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r  The afflicted is covered in a fluid akin to 'Liquid Death', damaging them over time. If they succumb to it, they drop crystalized aspects.
+witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§n余烬外套:§r  受难者被一层能够提高火焰效力的煤渣包裹着。所有火焰伤害将成倍增加。
 
 
 
-witchinggadgets_research_name.ETHEREALWALL=Ethereal Wall
+witchinggadgets_research_name.ETHEREALWALL=空之墙
 witchinggadgets_research_text.ETHEREALWALL=[WG] Hidden in plain sight
-witchinggadgets_research_page.ETHEREALWALL.1=Refining the enchantments on arcane stone just a bit more has led to an interesting discovery. Simply applying a redstone signal to this new type of stone will make it §onon-corporeal§r, allowing you to pass through it.<BR>This also affects any other Etheral Wall connected to the powered block.
-witchinggadgets_research_page.ETHEREALWALL.2=Furthermore, you can disguise this stone to the appearance of most common blocks. Simply click it with a block in hand it and this one will take its texture. Sneak and click it with an empty hand to remove the disguise. (It will only accept the texture of normally rendered blocks. Vanilla transparency works, Thaumcraft's Amber doesn't because it's coloured transparency, directional textures like wooden logs and quartz pillars are not fully supported)
+witchinggadgets_research_page.ETHEREALWALL.1=在稍微对奥术秘石上的魔法进行精炼后你有了一个有趣的发现。简单地给这个新的石头红石信号之后，将会让其 §o灵体化§r, 让你能通过它.<BR>这也会影响到所有跟这个被充能的方块相连的空之墙.
+witchinggadgets_research_page.ETHEREALWALL.2=此外，你可以把这个石块伪装成普通的方块。用手上的方块对其点击便能把它的纹理变成的手上的方块的纹理。潜行的时候空手点击石块能够撤销它的纹理。（它只接受正常渲染的方块的纹理。Vanilla transparency works, Thaumcraft's Amber并不被接受因为它们的透明性。方向性纹理，如原木和石英石柱并不被完全支持）
 #
-witchinggadgets_research_name.STONEEXTRUDER=Thaumic Stone Extruder
-witchinggadgets_research_text.STONEEXTRUDER=[WG] One can never have enough stone
-witchinggadgets_research_page.STONEEXTRUDER.1=Even those that are not skilled in the arts of Thaumaturgy are aware of how flowing lava will solidify into cobblestone when cooled by water. Those skilled in the magical arts don't want to waste their time on the tedious digging of these stones and have therefore created an automated way.<BR>This machine will create cobblestone, break it and place it either on the ground or into a connected inventory. Work will be halted if the inventory is full or a redstone signal is applied. You can use a wand to rotate it.
+witchinggadgets_research_name.STONEEXTRUDER=神秘压石机
+witchinggadgets_research_text.STONEEXTRUDER=[WG] 给那些永远不会有足够石头的人
+witchinggadgets_research_page.STONEEXTRUDER.1=就算是新手都知道流动的岩浆和水能够产生圆石，但是对于老司机来说他们并不想浪费那么多时间在挖石头上。所以他们创造了一种自动化的方法。<BR>这个机器能够产生圆石，然后自动打碎它并且把它放在地上或者旁边的箱子里。机器会在箱子满了或者接收到红石信号的时候停止。你可以用一个魔杖去旋转它
 #
-witchinggadgets_research_name.AGEINGSTONE=Ageing Stone
-witchinggadgets_research_text.AGEINGSTONE=[WG] Time flies when you're having fun!
-witchinggadgets_research_page.AGEINGSTONE.1=Every young Thaumaturge can't wait to grow up! But that would rob you of too many wonderful experiences. So instead you have decided to channel your knowledge of such time dilating arts into another form of Arcane Stone.<BR>The Ageing Stone will accelerate the ageing of most common creatures, making lambs, calves and piglets grow up much faster when exposed to it's magical energies.<BR>The Ageing Stone will apply this effect to all creatures in a 7x7x5 area centered around itself, with more blocks increasing the effect.
+witchinggadgets_research_name.AGEINGSTONE=时光之石
+witchinggadgets_research_text.AGEINGSTONE=[WG] 你在玩耍的时候时间总是过得很快！
+witchinggadgets_research_page.AGEINGSTONE.1=每个熊孩子都希望快点长大，但是这会带走他们太多美好的经历。所以你决定把你对于时间膨胀的知识灌注在奥术秘石里。<BR>时光之石会加快周围的普通生物的成长，让接触它的魔法力量小羊，犊牛和小猪长得更快。<BR>时光之石会影响以其为中心的7x7x5的空间。更多时光之石会增加它的效果。
 #
 witchinggadgets_research_name.THAUMICAPPLICATOR=
 witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
 witchinggadgets_research_page.THAUMICAPPLICATOR.1=
 #
-witchinggadgets_research_name.SPINNINGWHEEL=Spinning
-witchinggadgets_research_text.SPINNINGWHEEL=[WG] Don't prick yourself
-witchinggadgets_research_page.SPINNINGWHEEL.1=While many great Wizards neglect the practice of spinning and weaving, many of them do that by underestimating its true power. A number of magical artifacts are the product of clothwork, including every thaumaturge's robes. Some witches will testify that spellcrafting in itself even has a lot in common with weaving, requiring careful handling of the respective components; be it raw magic in its aspects or thread.
+witchinggadgets_research_name.SPINNINGWHEEL=纺织
+witchinggadgets_research_text.SPINNINGWHEEL=[WG] 别扎到自己
+witchinggadgets_research_page.SPINNINGWHEEL.1=当很多伟大的法师忽视了纺纱和织布的重要性时，很多人还是明白纺织的力量。很多魔法物品都是纺织的产物，包括每一个法师的长袍。很多法师都证明了创造符文跟纺织都有很多共同点，比如需要仔细处理的各个细节和需要让魔力在其内部流通。
 witchinggadgets_research_page.SPINNINGWHEEL.2=Every practitioners start into the field should be made by creating their very own §lSpinning Wheel§r. It will be used if in aquiring yarn, be it mundane, of exquisite material or some enhanced with magic. This yarn will then later be used to weave the fabric from which to craft various garments or magic artifacts-
 witchinggadgets_research_page.SPINNINGWHEEL.r1=<IMG>witchinggadgets:textures/gui/research/spinningRecipes1.png:0:0:255:255:0.5</IMG>§lYarn§r
 witchinggadgets_research_page.SPINNINGWHEEL.r2=<IMG>witchinggadgets:textures/gui/research/spinningRecipes2.png:0:0:255:255:0.5</IMG>§lGolden Thread§r
@@ -597,9 +597,12 @@ witchinggadgets_research_text.ANGELIC_BOOTS=[WG] Feathered steps
 witchinggadgets_research_page.ANGELIC_BOOTS.1=By the magic of these boots you move at higher speed, and wont take damage on falling.<BR>Furthermore, you are granted the power of walking upon the surface of any liquid. This includes water and lava. Should you crouch you will sink.
 
 #
-witchinggadgets_research_name.SCANCAMERA=Thaumic Iconograph
-witchinggadgets_research_text.SCANCAMERA=[WG] There is no Imp inside!
-witchinggadgets_research_page.SCANCAMERA.1=Experiments with the magical mirrored glass have shown that under certain conditions, it will not reflect images but store them. Using this to your advantage, you can store thaumic imprints of objects you find on your travels on glass panes. Later then, you can transfer these imprints to paper, in order to share your experinces with other Thaumaturges at the next arcane council.
-witchinggadgets_research_page.SCANCAMERA.2=Use the §lThaumic Iconograph Box§r like you would use the Thaumometer. You can create a §lIconographic Plate§r of anything you would usually scan at the cost of a §lMirrored Glass§r from your inventory. You can take iconographs even of things you have previously scanned, but only the use of a §lDeveloped Iconograph§r grants you the research aspects. And this studying of the picture abides by the same rule as the scan with the Thaumometer. Increase the number of ink and paper in the development recipe to create more than one copy of the picture.
+witchinggadgets_research_name.SCANCAMERA=神秘记录仪
+witchinggadgets_research_text.SCANCAMERA=[WG]里面并没有小淘气!
+witchinggadgets_research_page.SCANCAMERA.1=神秘镜面玻璃实验表明，在某些情况下，镜子并不会反映出物品的图像，而是会将物品储存在其中。这个特性使你可以在旅行中将见闻储存在其中。之后你可以将这些见闻转移到纸上与其他神秘使分享。
+witchinggadgets_research_page.SCANCAMERA.2=使用§l神秘记录仪§r就像使用魔导透镜一样。你可以像平常扫描物品一样消耗一个镜面玻璃来创造一份§l神秘胶片§r。你也可以给已经扫描过的物品创造胶片，然而你只能使用§l处理过的胶片§r 来得到研究点数。得到的研究点数与使用魔导透镜相同。 在创造处理过的胶片时使用额外的墨水和纸张可以得到额外的副本。
 
 #
+
+
+ 
