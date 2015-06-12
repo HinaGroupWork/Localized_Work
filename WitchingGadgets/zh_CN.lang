@@ -111,7 +111,7 @@ item.WG_Baubles.shouldersDoublejump.name=炽天之跃
 item.WG_Baubles.shouldersKnockback.name=不动肩甲
 item.WG_Baubles.vambraceStrength.name=海格力斯之腕
 item.WG_Baubles.vambraceHaste.name=固流臂铠
-item.WG_Baubles.titleCrimsonCult.name=Title: 赤色祭仪
+item.WG_Baubles.titleCrimsonCult.name=赤色祭仪
 wg.title.crimsonCultist= 赤色祭仪
 wg.title.crimsonKnight=赤色骑士
 wg.title.crimsonPraetor=赤色执政官
@@ -588,13 +588,14 @@ witchinggadgets_research_name.ANGELIC_CHEST=Seraph's Cuirass
 witchinggadgets_research_text.ANGELIC_CHEST=[WG] Blinded by the light!
 witchinggadgets_research_page.ANGELIC_CHEST.1=While wearing this cuirass, the Thaumaturge is strengthened by the powers of light. They are granted the ability to fly and get strengthened by the light. The brighter the light you're standing in, the higher your chance to regenerate some health. Finally, this cuirass contains otherworldly pockets allowing you to store items in it. Open them with the keybinding for using cloaks (default: 'G').
 #
-witchinggadgets_research_name.ANGELIC_LEGS=Cherub Greaves
-witchinggadgets_research_text.ANGELIC_LEGS=[WG] Green...kneecap?
-witchinggadgets_research_page.ANGELIC_LEGS.1=When you sneak over the fields on which the independant Thaumaturge grows his supplies, dirt will be tilled and farmland will be hydrated. Also, should you ever be in a tight spot, try crouching and jumping. You will be propelled high into the air and all creatures around you will be paralyzed for a short moment.
+witchinggadgets_research_name.ANGELIC_LEGS=小天使之庇
+witchinggadgets_research_text.ANGELIC_LEGS=[WG]绿色的护膝?
+witchinggadgets_research_page.ANGELIC_LEGS.1=当你在原野上按住Shift时，周围的泥土将会受到丰收之神的眷顾，在没有工具和水源的情况下可以开花结果。当你面临危机的时候，只需要弯下腰然后跳起，你将会摆脱你的敌人，并且你的敌人们将会受到短暂的麻痹。
+
 #
-witchinggadgets_research_name.ANGELIC_BOOTS=Sabatons of the Valkyrie
-witchinggadgets_research_text.ANGELIC_BOOTS=[WG] Feathered steps
-witchinggadgets_research_page.ANGELIC_BOOTS.1=By the magic of these boots you move at higher speed, and wont take damage on falling.<BR>Furthermore, you are granted the power of walking upon the surface of any liquid. This includes water and lava. Should you crouch you will sink.
+witchinggadgets_research_name.ANGELIC_BOOTS=女武神之眷
+witchinggadgets_research_text.ANGELIC_BOOTS=[WG]飞快的步伐
+witchinggadgets_research_page.ANGELIC_BOOTS.1=穿上带有魔力的女武神之眷，你将可以飞快移动而且不会受到掉落伤害。<BR>甚至你可以在任何液体的表面上健步如飞，包括岩浆都将臣服于你的脚下。但是当你潜行时这个特效将会消失。
 
 #
 witchinggadgets_research_name.SCANCAMERA=神秘记录仪
@@ -603,6 +604,3 @@ witchinggadgets_research_page.SCANCAMERA.1=神秘镜面玻璃实验表明，在�
 witchinggadgets_research_page.SCANCAMERA.2=使用§l神秘记录仪§r就像使用魔导透镜一样。你可以像平常扫描物品一样消耗一个镜面玻璃来创造一份§l神秘胶片§r。你也可以给已经扫描过的物品创造胶片，然而你只能使用§l处理过的胶片§r 来得到研究点数。得到的研究点数与使用魔导透镜相同。 在创造处理过的胶片时使用额外的墨水和纸张可以得到额外的副本。
 
 #
-
-
- 
