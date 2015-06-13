@@ -1,6 +1,6 @@
 # -- Blocks --
-tile.WG_WallMirror.name=墙上之镜
-tile.WG_VoidWalkway.name=间隙之路
+tile.WG_WallMirror.name=Mirror on the Wall
+tile.WG_VoidWalkway.name=Void Walkway
 tile.WG_StoneDevice.etherealWall.name=空之墙
 tile.WG_StoneDevice.magicTileLock.name=魔力之锁
 tile.WG_StoneDevice.obsidianPlate.name=黑曜石碟
@@ -30,8 +30,8 @@ tile.WG_MetalDevice.voidmetalBlock.name=虚空金属块
 tile.WG_MetalDevice.tfFocusTaint.name=地形核心: 诅咒之地
 tile.WG_MetalDevice.tfFocusMushroom.name=地形核心: 蘑菇岛
 
-tile.WG_RoseVine.name=玫瑰藤蔓
-tile.WG_CustomAir.name=微光之源
+tile.WG_RoseVine.name=Rose Vines
+tile.WG_CustomAir.name=Glimmer of Light
 
 #
 # -- Items --
