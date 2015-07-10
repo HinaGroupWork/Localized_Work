@@ -178,7 +178,7 @@ wg.desc.active=激活
 wg.desc.infusionStabilizer=好似注入了稳定剂
 
 wg.gui.search=追寻
-wg.chat.nodeContents.primal=Primal Aspects within this node: §eAer: %1$s§f, §2Terra: %2$s§f, §cIgnis: %3$s§f, §3Aqua: %4$s§f, §7Ordo: %5$s§f, §8Perditio: %6$s
+wg.chat.nodeContents.primal=此节点中的基础要素: §eAer: %1$s§f, §2Terra: %2$s§f, §cIgnis: %3$s§f, §3Aqua: %4$s§f, §7Ordo: %5$s§f, §8Perditio: %6$s
 wg.chat.infusionWarning.pedestalHeight=Infusion pedestal at %1$s, %2$s, %3$s must not be higher than the Infusion Matrix
 wg.chat.infusionWarning.pedestalPos=Pedestal at %1$s, %2$s, %3$s must not be more than 8 blocks horizontally from the matrix
 wg.chat.infusionWarning.noPartnerItem=Pedestal at %1$s, %2$s, %3$s should have an item to match its partner
@@ -224,8 +224,8 @@ witchinggadgets_research_page.WALLMIRROR.2=§lAccess:§r<BR>置镜于任意方�
 #WGPOTIONS
 witchinggadgets_research_name.WGPOTIONS=Status Effects
 witchinggadgets_research_text.WGPOTIONS=[WG]牛奶不是一直都是好的选择！
-witchinggadgets_research_page.WGPOTIONS.1=随着你追寻神秘力量的步伐，你会受到某些影响。以下是一些已知的列表:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§n击退抵抗:§r  给予受难者一个抵挡击退的效果。每一个等级有33%的几率抵挡击退。<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r  The afflicted is covered in a fluid akin to 'Liquid Death', damaging them over time. If they succumb to it, they drop crystalized aspects.
-witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§n余烬外套:§r  受难者被一层能够提高火焰效力的煤渣包裹着。所有火焰伤害将成倍增加。
+witchinggadgets_research_page.WGPOTIONS.1=随着你追寻神秘力量的步伐，你会受到某些影响。以下是一些已知的列表:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§n击退抵抗:§r给予受难者一个抵挡击退的效果。每一个等级有33%的几率抵挡击退。<IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r  The afflicted is covered in a fluid akin to 'Liquid Death', damaging them over time. If they succumb to it, they drop crystalized aspects.
+witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:18:1</IMG>§n余烬外套:§r受难者被一层能够提高火焰效力的煤渣包裹着。所有火焰伤害将成倍增加。
 
 
 
@@ -415,7 +415,7 @@ witchinggadgets_research_page.TERRAFORMFOCUS_TAINT.1=That's it. You pretty much 
 
 #MIRRORPUMP
 witchinggadgets_research_name.MIRRORPUMP=源质泵
-witchinggadgets_research_text.MIRRORPUMP=[WG] Suck it up!
+witchinggadgets_research_text.MIRRORPUMP=[WG]吸干它!
 witchinggadgets_research_page.MIRRORPUMP.1=Essentia Mirrors may allow the Infusion Altar to pull essentia over long distances, but most other devices are unable to utilize them. In order to save yourself a lot of tubing, you have invented the Essentia Pump. When it is attached to a tube system, it will recognize the current suction of the system and draw the matching aspect from nearby mirrors.
 
 
@@ -427,7 +427,7 @@ witchinggadgets_research_page.SAUNASTOVE.1=Personal hygiene and spa-feeling seem
 witchinggadgets_research_page.SAUNASTOVE.2=If you are a user of EnviroMine, the Sauna will also leave you thirsty and slightly overheated, but it as great effects on your sanity!
 
 #CRYSTALCAPSULE
-witchinggadgets_research_name.CRYSTALCAPSULE=水晶烧瓶
+witchinggadgets_research_name.CRYSTALCAPSULE=水晶胶囊
 witchinggadgets_research_text.CRYSTALCAPSULE=[WG] From Venice with Love
 witchinggadgets_research_page.CRYSTALCAPSULE.1=Everyone can use a bucket!...sadly, not really. Some liquids out there dislike cooperating with mundane buckets, but even the hottest or viscous substance can not refuse the magical suction of glass prisms.<BR>These capsules are not cut, but instead molded from essentia, making them, crystal clear, flawless and impervious to aggressive substances.<BR>§oYou use this like a bucket, but it will work on any fluid block.§r
 
@@ -461,10 +461,10 @@ witchinggadgets_research_page.GEMCUTTING.1=Gemcutting is one of the oldest yet m
 witchinggadgets_research_page.GEMCUTTING.2=You can use the newly created cutting table to create these gems and infuse them with essence.<BR>Place a valid gem in the left slot and add ethereal essences or vials of essentia in the other three slots. The essences must be of the same aspect and will determine the strength of the resulting infused gem. Select a cut with the arrows and then pull the finished gem out of the right slot. Once a gem has been created, it cannot be repurposed.
 witchinggadgets_research_page.GEMCUTTING.3=§lNatural Affinities§r<BR>Some stones have inheirent natural affinities for certain aspects, which applies a natural strengthening to their effect. If the affinity matches the infused aspect, the gem will be enchanted with "Brilliance", the level depending on the amount of essences used in the creation.<BR>§lNatural Aversions§r<BR>Similarly, some gems have natural aversions to certain aspect, and infusing them with them will make the resulting gem brittle, weakening it's effect and adding a chance for reuseable gems to break.<BR> Hold shift while looking at a gem to see its affinites and aversions.
 
-witchinggadgets_research_page.GEMCUTTING.4=            §lPoint Cut§r<LINE>The point cut is the most basic form you can give to your infused gem. While it can store thaumic energies, the only way to release this energy is by crushign the gem, leaving behind some gemstone dust. The effects varying by aspect, are as follows:<BR>§e§lAer: §r§0You aquire a short-term, high powered jumpboost.<BR>§2§lTerra: §r§0Grants you knockback resistance.<BR>§c§lIgnis: §r§0Iluminates an area around you with temporary glimmers of light.
+witchinggadgets_research_page.GEMCUTTING.4=§lPoint Cut§r<LINE>The point cut is the most basic form you can give to your infused gem. While it can store thaumic energies, the only way to release this energy is by crushign the gem, leaving behind some gemstone dust. The effects varying by aspect, are as follows:<BR>§e§lAer: §r§0You aquire a short-term, high powered jumpboost.<BR>§2§lTerra: §r§0Grants you knockback resistance.<BR>§c§lIgnis: §r§0Iluminates an area around you with temporary glimmers of light.
 witchinggadgets_research_page.GEMCUTTING.5=§3§lAqua: §r§0Releases a blast of freezing energy, turning water into ice and solidifying lava around you.<BR>§f§lOrdo: §r§0Restores some of your lifepoints.<BR>§8§lPerditio: §r§0Inflicts some temporary warp upon you.
 
-witchinggadgets_research_page.GEMCUTTING.6=              §lOval Cut§r<LINE>The oval cut is an advanced form of the infused gems. With the increase in facettes, it can store much more energy and release it in smaller, concentrated bursts. The effects are quite different from those of the point cut gems and these can be recharged with vis of a matching aspect.<BR>Due to its complexety, using a base gem without a natural affinity for the aspect makes the resulting gem very brittle, and in turn, the essentia required to create a brilliant gem has increased.
+witchinggadgets_research_page.GEMCUTTING.6=§lOval Cut§r<LINE>The oval cut is an advanced form of the infused gems. With the increase in facettes, it can store much more energy and release it in smaller, concentrated bursts. The effects are quite different from those of the point cut gems and these can be recharged with vis of a matching aspect.<BR>Due to its complexety, using a base gem without a natural affinity for the aspect makes the resulting gem very brittle, and in turn, the essentia required to create a brilliant gem has increased.
 witchinggadgets_research_page.GEMCUTTING.7=§e§lAer: §r§0The energies propell you through their air. Consumes 1 charge per use.<BR>§2§lTerra: §r§0Upon using it on a block, it checks connected blocks for ores. Consumes 1 charge per use.<BR>§c§lIgnis: §r§0Starts a fire at the targeted block. Consumes 1 charge per use.<BR>§3§lAqua: §r§0Creates a block of clean water at the targeted block. Consumes 2 charges per use.<BR>§7§lOrdo: §r§0Guides you to the nearest Node. Consumes 2 charges per use.<BR>§8§lPerditio: §r§0When targeted at a Magical Mirror, it will teleport you to the linked mirror. Consumes 16 charges per use. (May require sneak-clicking to operate)
 witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer: §r§0The energies propell you through their air. Consumes 1 charge per use.<BR>§2§lTerra: §r§0Upon using it on a block, it checks connected blocks for ores. Consumes 1 charge per use.<BR>§c§lIgnis: §r§0Starts a fire at the targeted block. Consumes 1 charge per use.<BR>§3§lAqua: §r§0Creates a block of clean water at the targeted block. Consumes 2 charges per use.<BR>§f§lOrdo: §r§0Guides you to the nearest Node. Consumes 2 charges per use.<BR>§8§lPerditio: §r§0Releases a wave of energy, pushing back and blinding enemies around you. Consumes 2 charges per use.
 
@@ -498,7 +498,7 @@ witchinggadgets_research_page.PRIMORDIALGLOVE.1=The knowledge of the Primordial 
 witchinggadgets_research_page.PRIMORDIALGLOVE.2=It should be noted that the sockets will stabilize the gems inside them, so they will never break upon use, but simply recharge.<BR>To select the active gem, the same keybinding as for switching wand foci is used. Sneak while pressign that key to open the inventory in order to add or remove gems.<BR>The pearl is not consumed during the crafting process.
 
 #PRIMORDIALGEARSET
-witchinggadgets_research_name.PRIMORDIALGEARSET=Primal Revelation
+witchinggadgets_research_name.PRIMORDIALGEARSET=始源启示
 witchinggadgets_research_text.PRIMORDIALGEARSET=[WG] War on the Eldritch!
 witchinggadgets_research_page.PRIMORDIALGEARSET.1=Like a flash of lightning, the scribbles unrecognizeable before now seem crystal clear. You have restored the pages on Primordial Smithing, the art of highenergetic infusion. With it you shall create pieces of gear that surpass your current by lengths. It's designs indicate clearly that these items were not meant for travelling Thaumaturges. This is preparation for the unavoidable conflict with the creatures of the Void. And what's best to combat them than the metal created with their knowledge?<BR>You shall mold items from full blocks of Void metal, items of raw primal power, to protect and arm you.
 witchinggadgets_research_page.PRIMORDIALGEARSET.2=But that's not all! The runes and sockets on said gear will be the perfect for imbuing processes, stengthening their potential even further. Each piece is infused with elemental abilities, increasing their potential immensly! 
